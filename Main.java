@@ -6,8 +6,8 @@ public class Main {
         // Création de patients 
         Patient patient1 = new Patient("Enzo MALOU", 30, "Grippe");
         Patient patient2 = new Patient("Valentin PERROT", 45, "Fracture");
-        Patient patient3 = new Patient("CHECLER Théo", 21, "Trop fort");
-        Patient patient4 = new Patient("MAUBLANC Théry", 57, "Nul au foot");
+        Patient patient3 = new Patient("Théo CHECLER", 21, "Trop fort");
+        Patient patient4 = new Patient("Théry MAUBLANC", 57, "Nul au foot");
         
         // Création de médecins 
         Medecin medecin1 = new Medecin("WIBAUT", "Sofiane", 2500, "Généraliste");
